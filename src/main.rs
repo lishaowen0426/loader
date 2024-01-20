@@ -16,6 +16,8 @@ mod none;
 #[cfg(target_os = "uefi")]
 mod uefi;
 
+mod elf;
+
 use core::fmt::{self, Write};
 
 #[doc(hidden)]
