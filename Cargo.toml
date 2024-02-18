@@ -8,7 +8,7 @@ edition = "2021"
 
 [dependencies]
 align-address = "0.1"
-hermit-entry = { version = "0.9", path="/Users/lsw/Code/hermit/hermit-entry", features = ["loader"] }
+hermit-entry = { version = "0.9", path="/home/sw/hermit/hermit-entry", features = ["loader"] }
 log = "0.4"
 sptr = "0.3"
 
